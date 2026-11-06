@@ -1,0 +1,25 @@
+# dependências
+node_modules
+
+# Next.js
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+
+# Vercel
+.vercel
+
+# logs
+*.log
+npm-debug.log*
+
+# local
+.env*.local
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea
+
+# arquivos de distribuição
+*.zip
